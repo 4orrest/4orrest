@@ -4,9 +4,7 @@ Hey 👋
 I'm forrest - a product-focused software engineer
 ---------------------------------
 
-* 🖥️  See my portfolio at [forrestkretchmer.com](http://www.forrestkretchmer.com/)
-* ✉️  You can contact me at [forrestkretchmer@gmail.com](mailto:forrestkretchmer@gmail.com)
-* 🚀  I'm currently working on [homeR](https://homer-psi.vercel.app/), an AI enablement platform for first time homebuyers
+
 
 ### Skills
 
